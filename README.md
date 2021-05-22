@@ -1,2 +1,3 @@
-# obp
-One Button Publishing
+# A-Machine
+
+Open rapid pblishing & learning
